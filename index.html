@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>We Do a little trolling</title>
+    <audio controls autoplay style="display:none">
+        <source src="https://cdn.discordapp.com/attachments/823135275017961512/879394864280768593/knock.mp3"
+            type="audio/mpeg">
+        Granie
+    </audio>
+</head>
+
+<body>
+    <script type="text/javascript">
+        var clicks = 0;
+        function onClick() {
+            clicks += 1;
+            document.getElementById("clicks").innerHTML = clicks;
+        };
+    </script>
+    <button type="button" onClick="onClick()">Click me</button>
+    <p>Clicks: <a id="clicks">0</a></p>
+</body>
+
+</html>
