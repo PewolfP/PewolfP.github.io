@@ -1,9 +1,8 @@
 ## Hello!
 I’m [**@PiterDev**](https://github.com/PiterDev)! 👋 
 
-I'm currently learning Python and Godot Engine.
-
-Currently also learning Linux after switching to it.
+I'm just a random discord guy.
+This website is under construction, will replace with an actual one soon.
 
 ### My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiterDev&show_icons=true&theme=gruvbox)
